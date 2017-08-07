@@ -1,1 +1,3 @@
-# data-storage
+# CAPSTONE PROJECT - 1
+
+ADULT INCOME PREDICTION
